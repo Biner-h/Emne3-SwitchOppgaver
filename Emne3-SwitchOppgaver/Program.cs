@@ -1,5 +1,4 @@
 ﻿
-
 void run()
 {
     Console.WriteLine("Hvilken dag er de ulike tallene?");
